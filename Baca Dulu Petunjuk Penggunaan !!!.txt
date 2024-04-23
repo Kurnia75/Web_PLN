@@ -1,0 +1,37 @@
+			       PLN Kurnia Juanugraha
+<----------------------------------------Pembuat-------------------------------------------->
+
+Pembuat 		: Kurnia JUanugraha
+NomerPeserta		: 15-112-043-6
+Tempat, Tanggal Lahir	: Cianjur, 17 Juni 1999
+Corp			: SMKN 1 Karangtengah Cianjur / Rekayasa Perangkat Lunak / XII RPL-1
+Tujuan Pembuatan	: Ujian Kompetensi Keahlian 2018
+
+<------------------------------------------------------------------------------------------->
+
+Website ini dibuat untuk Ujian Kompetensi Keahlian tahun 2018 dan sebagai hasil studi saya
+selama kurang lebih tiga tahun di SMKN 1 Karangtengah Cianjur khususnya di jurusan Rekayasa
+Perangkat Lunak
+
+<---------------------------------Petunjuk Teknis Website---------------------------------->
+
+Siapkan Basis Data dengan nama	: "db_pln" (di localhost/phpmyadmin/)
+Import Basis Data 		: dari folder ----> kurnia_juanugraha/db/db_pln.sql
+Rekomendasi browser		: Mozila Firefox
+
+<-------------------------------------->
+
+Untuk Login Admin :
+
+Username	: kurnia
+Password	: kurnia
+
+<-------------------------------------->
+
+Untuk Login User :
+
+Username	: user
+Password	: user
+
+
+<------------------------Copyright2018 Kurnia Juanugraha------------------------->
